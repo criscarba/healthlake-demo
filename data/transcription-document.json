@@ -1,0 +1,37 @@
+{
+  "resourceType": "DocumentReference",
+  "status": "current",
+  "type": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "11488-4",
+        "display": "Consult note"
+      }
+    ]
+  },
+  "subject": {
+    "reference": "Patient/684b7be0-40ff-40c9-aac1-fcbbe85819e1"
+  },
+  "date": "2025-06-03T10:18:29.703767Z",
+  "author": [
+    {
+      "display": "Dr. Johnson, Interventional Cardiologist"
+    }
+  ],
+  "description": "Transcribed procedure note from cardiac catheterization",
+  "content": [
+    {
+      "attachment": {
+        "contentType": "text/plain",
+        "data": "UGF0aWVudCBKb2huIERvZSB1bmRlcndlbnQgbGVmdCBoZWFydCBjYXRoZXRlcml6YXRpb24uIApUaGUgcHJvY2VkdXJlIHdhcyBwZXJmb3JtZWQgdmlhIHJpZ2h0IGZlbW9yYWwgYXBwcm9hY2guIENvcm9uYXJ5IGFuZ2lvZ3JhcGh5IApyZXZlYWxlZCBub3JtYWwgY29yb25hcnkgYXJ0ZXJpZXMgd2l0aCBubyBzaWduaWZpY2FudCBzdGVub3Npcy4gTGVmdCB2ZW50cmljdWxhciAKZWplY3Rpb24gZnJhY3Rpb24gaXMgZXN0aW1hdGVkIGF0IHNpeHR5IHBlcmNlbnQuIFBhdGllbnQgdG9sZXJhdGVkIHRoZSBwcm9jZWR1cmUgCndlbGwgd2l0aCBubyBjb21wbGljYXRpb25zLg=="
+      }
+    }
+  ],
+  "context": {
+    "period": {
+      "start": "2025-06-01T14:00:00Z",
+      "end": "2025-06-01T15:30:00Z"
+    }
+  }
+}

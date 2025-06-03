@@ -1,0 +1,37 @@
+DISCHARGE SUMMARY
+
+Patient: John Doe
+Date: June 1, 2025
+Procedure: Left heart catheterization
+
+HISTORY OF PRESENT ILLNESS:
+65-year-old male with chest pain and shortness of breath on exertion. 
+Patient reports symptoms started 2 weeks ago. No radiation to arms or jaw.
+Denied nausea, vomiting, or diaphoresis.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia  
+- Type 2 diabetes mellitus
+
+MEDICATIONS:
+- Lisinopril 10mg daily
+- Atorvastatin 40mg daily
+- Metformin 1000mg twice daily
+
+PROCEDURE:
+Left heart catheterization performed via right femoral approach. 
+Coronary angiography revealed normal coronary arteries with no significant stenosis.
+Left ventricular function appeared normal.
+
+FINDINGS:
+- Normal coronary anatomy
+- LVEF estimated at 60%
+- No wall motion abnormalities
+
+DISCHARGE MEDICATIONS:
+Continue current medications. Added aspirin 81mg daily for cardiac protection.
+
+FOLLOW-UP:
+Return to cardiology clinic in 4 weeks. Patient advised to continue current 
+exercise regimen and follow cardiac diet.

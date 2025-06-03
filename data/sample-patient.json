@@ -1,0 +1,24 @@
+{
+    "resourceType": "Patient",
+    "id": "patient-001",
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Doe",
+        "given": ["John"]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1980-05-15",
+    "address": [
+      {
+        "use": "home",
+        "line": ["123 Main St"],
+        "city": "Anytown",
+        "state": "CA",
+        "postalCode": "12345",
+        "country": "US"
+      }
+    ]
+  }

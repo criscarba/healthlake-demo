@@ -1,0 +1,51 @@
+{
+    "resourceType": "Procedure",
+    "status": "completed",
+    "category": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "387713003",
+          "display": "Surgical procedure"
+        }
+      ]
+    },
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "41976001",
+          "display": "Cardiac catheterization"
+        }
+      ],
+      "text": "Left heart catheterization with coronary angiography"
+    },
+    "subject": {
+      "reference": "Patient/684b7be0-40ff-40c9-aac1-fcbbe85819e1"
+    },
+    "performedDateTime": "2025-06-01T14:00:00Z",
+    "performer": [
+      {
+        "actor": {
+          "display": "Dr. Johnson, Interventional Cardiologist"
+        }
+      }
+    ],
+    "location": {
+      "display": "Cardiac Catheterization Laboratory"
+    },
+    "outcome": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "385669000",
+          "display": "Successful"
+        }
+      ]
+    },
+    "note": [
+      {
+        "text": "Successful left heart catheterization. Normal coronary arteries. No significant stenosis detected. Patient tolerated procedure well."
+      }
+    ]
+  }
