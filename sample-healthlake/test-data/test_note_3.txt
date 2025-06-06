@@ -1,0 +1,98 @@
+Patient Name: Johnathan Miller
+DOB: 1983-06-15
+Patient ID: JM-528471
+Encounter Date: 2025-06-06
+Provider: Dr. Emily Carter, MD
+Facility: Midtown Health Clinic
+
+⸻
+
+Clinical Notes
+
+Chief Complaint:
+Patient presents with persistent chest discomfort and occasional shortness of breath during moderate exertion over the past two weeks.
+
+⸻
+
+History of Present Illness (HPI):
+Mr. Miller is a 42-year-old male with no prior history of cardiac disease, presenting today with complaints of a dull chest ache that began approximately 14 days ago. The discomfort is located centrally, rated 3-4/10 in intensity, non-radiating, and worsens with physical activity (e.g., climbing stairs). No associated nausea, diaphoresis, or syncope reported. Denies recent respiratory infections. Reports occasional fatigue but no weight loss, fever, or cough.
+
+⸻
+
+Past Medical History:
+	•	Hypertension (diagnosed 2018)
+	•	Hyperlipidemia (diagnosed 2020)
+	•	No known diabetes
+	•	No prior surgeries
+	•	No prior hospitalizations for cardiac events
+
+⸻
+
+Medications:
+	•	Lisinopril 10 mg daily
+	•	Atorvastatin 20 mg nightly
+
+⸻
+
+Allergies:
+	•	NKDA (No Known Drug Allergies)
+
+⸻
+
+Family History:
+	•	Father: MI at age 60, HTN
+	•	Mother: Alive, HTN and T2DM
+
+⸻
+
+Social History:
+	•	Non-smoker
+	•	Occasional alcohol use (~2 drinks/week)
+	•	Works as an accountant
+	•	Exercises sporadically (1x/week)
+
+⸻
+
+Review of Systems (ROS):
+	•	Cardiovascular: Chest discomfort with exertion
+	•	Respiratory: Occasional mild dyspnea
+	•	GI: No nausea, vomiting, or abdominal pain
+	•	Neuro: No dizziness, headaches, or weakness
+	•	Musculoskeletal: No joint pain
+	•	Psych: Denies anxiety or depression
+
+⸻
+
+Physical Examination:
+	•	General: Alert, oriented x3, in no acute distress
+	•	Vital Signs: BP 132/86 mmHg, HR 78 bpm, RR 16, Temp 98.6°F, SpO2 98% RA
+	•	Cardiac: Regular rate and rhythm, no murmurs, rubs, or gallops
+	•	Lungs: Clear to auscultation bilaterally, no wheezes or rales
+	•	Abdomen: Soft, non-tender, no organomegaly
+	•	Extremities: No edema
+	•	Neuro: Normal gait, no focal deficits
+
+⸻
+
+Assessment:
+	1.	Chest discomfort, likely non-cardiac vs. stable angina — needs further workup
+	2.	Hypertension — controlled
+	3.	Hyperlipidemia — on treatment
+
+⸻
+
+Plan:
+	•	Order EKG today — results pending
+	•	Schedule treadmill stress test within 1 week
+	•	Labs: CBC, CMP, lipid panel, TSH
+	•	Continue current medications
+	•	Educate on diet, exercise, and monitoring symptoms
+	•	Follow-up appointment in 1 week or sooner if symptoms worsen
+
+⸻
+
+Physician Signature:
+Dr. Emily Carter, MD
+Midtown Health Clinic
+NPI: 1234567890
+Date: 2025-06-06

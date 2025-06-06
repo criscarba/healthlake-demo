@@ -1,0 +1,19 @@
+Patient: Test Patient
+Date: 2025-03-14
+
+CLINICAL HISTORY:
+65-year-old male with chest pain and shortness of breath. 
+History of hypertension and diabetes.
+
+MEDICATIONS:
+- Atorvastatin 40mg daily
+- Metoprolol 50mg twice daily
+- Aspirin 81mg daily
+
+PROCEDURE:
+Cardiac catheterization performed. Found 90% stenosis in LAD.
+Successful angioplasty with stent placement.
+
+ASSESSMENT:
+Coronary artery disease with successful PCI intervention.
+Continue dual antiplatelet therapy.

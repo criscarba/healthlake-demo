@@ -1,0 +1,26 @@
+Patient: John Smith, MRN: 12345-67890
+Age: 65 years old
+Date: March 14, 2025
+
+CLINICAL HISTORY:
+Mr. Smith is a 65-year-old male presenting with chest pain and shortness of breath. 
+Past medical history significant for hypertension, type 2 diabetes mellitus, and hyperlipidemia.
+
+CURRENT MEDICATIONS:
+- Atorvastatin 40mg daily for cholesterol management
+- Metoprolol 50mg twice daily for blood pressure control  
+- Lisinopril 10mg daily for hypertension
+- Aspirin 81mg daily for cardioprotection
+- Metformin 1000mg twice daily for diabetes
+
+PROCEDURE PERFORMED:
+Cardiac catheterization revealed 90% stenosis in the proximal LAD and 70% stenosis in the mid RCA.
+Successful percutaneous coronary intervention (PCI) with drug-eluting stent placement in LAD.
+Excellent angiographic result with TIMI 3 flow restoration.
+
+ASSESSMENT AND PLAN:
+1. Coronary artery disease with successful revascularization
+2. Continue dual antiplatelet therapy with aspirin and clopidogrel
+3. Optimize medical therapy with high-intensity statin therapy
+4. Follow-up in cardiology clinic in 4-6 weeks
+5. Consider staged PCI for RCA lesion if symptoms persist
